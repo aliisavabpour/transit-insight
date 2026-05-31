@@ -9,7 +9,7 @@ Although the architecture was validated against multiple agencies, the **submitt
 ```bash
 cd dashboard
 pip install -e ..   # or: pip install duckdb pandas plotly streamlit
-streamlit run app.py --server.port 5000
+streamlit run app.py
 ```
 
 1. Open **Home** for architecture and fleet summary.  
