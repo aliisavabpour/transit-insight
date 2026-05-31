@@ -1,0 +1,4 @@
+fare_media_id,fare_media_name,fare_media_type
+ARC,Arc,2
+Cash,Cash,0
+cEMV,cEMV,3

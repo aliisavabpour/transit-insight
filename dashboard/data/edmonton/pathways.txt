@@ -1,0 +1,306 @@
+pathway_id,from_stop_id,to_stop_id,pathway_mode,is_bidirectional,length,traversal_time,stair_count,max_slope,min_width,signposted_as,reversed_signposted_as
+Chur-37,E1,E209,2,1,20,,30,,,,Churchill Square 102 Ave
+Chur-2,E209,E5,1,1,104,,,0.03,,Churchill LRT Station,City Centre
+Chur-33,E5,18762,2,1,20,,44,,,Proof of Payment Area,The Arts District South
+Chur-29,18762,E5,4,0,20,,35,,,The Arts District South,Proof of Payment Area
+Chur-19,E5,18762,5,1,20,60,,,,ToTrains,To Concourse
+Chur-6,E18,E209,5,1,19,30,,,,,Tix on the Square
+Chur-38,E6,E5,2,1,40,,32,,,Churchill LRT Station,Winspear Centre
+Chur-39,E6,E5,5,1,28,,,,,Churchilll LRT Station,Winspear Centre
+Chur-8,E8,E10,2,1,29,,35,,,Churchill LRT Station,Chancery Hall
+Chur-7,E8,E10,5,1,10,50,,,,,Elevator to Chancery Hall
+Chur-11,E13,E16,2,1,34,,42,,,,
+Chur-10,E13,E16,5,1,18,30,,,,,
+Chur-27,E16,18762,2,1,20,,44,,,Churchill LRT Station,The Arts District North
+Chur-23,18762,E16,4,0,20,,35,,,The Arts District North,Churchill LRT Station
+Chur-1,E12,E16,2,1,34,,38,,,Churchill LRT,102 A Avenue
+Chur-15,E20,E217,2,1,40,,45,,,Churchill LRT Station,City Hall
+Chur-31,E217,E16,1,1,63,,,,,,
+Chur-9,E20,E217,5,1,45,45,,,,Churchill LRT Station,City Hall
+Sgt-2,E25,E33,2,1,13,,80,,,Southgate LRT Station,111 Street Northbound
+Sgt-1,E25,E33,5,1,45,,,,,Southgate LRT Station,111 Street Northbound
+Sgt-10,E33,21131,2,1,23,,35,,,Proof of Payment Area,
+Sgt-9,21131,E33,4,0,23,,30,,,,
+Sgt-3,E33,21132,2,1,23,,35,,,Proof of Payment Area,
+Sgt-4,21132,E33,4,0,23,,30,,,,
+Sgt-11,E33,21132,2,1,23,,35,,,Proof of Payment Area,
+Sgt-7,E33,21131,2,1,23,,35,,,Proof of Payment Area,
+Sgt-5,E33,21131,5,1,10,50,,,,,
+Sgt-8,E33,E34,1,1,41,,,,,Southgate Transit Centre,
+Sgt-12,E34,E210,5,1,0,50,,,,,
+Sgt-13,E36,E34,2,1,37,,38,,,Southgate LRT Station,
+Sgt-15,E38,E34,2,1,33,,38,,,Southgate LRT Station,
+Sgt-14,E38,E34,4,1,33,,30,,,Southgate Transit Centre,
+CenPk-2,E211,E40,2,1,36,,10,,,111 Street Pedway,Century Park LRT Station
+CenPk-1,E40,E211,1,1,54,,,0.03,,Century Park LRT Station,111 Street Pedway
+CenPk-3,E211,49821,5,1,40,,,,,To Trains,To Upper Level
+CenPk-7,E211,49821,2,1,30,,39,,,Proof of Payment Area,
+CenPk-6,49821,E211,4,0,30,,25,,,,
+CenPk-5,E211,49821,2,1,30,,31,,,Proof of Payment Area,
+CenPk-4,E47,E211,1,1,53,,,,,,Transit Centre
+CenPk-8,E47,E48,5,1,0,,,,,,Century Park LRT Station
+CenPk-10,E47,E48,2,1,24,,40,,,,Century Park LRT Station
+CenPk-9,E48,E47,4,0,24,,35,,,Century Park LRT Station,
+SouCa-1,E65,21152,1,1,25,,,0.03,,South Campus/Fort Edmonton LRT Station,113 Street
+SouCa-2,E65,21151,1,1,25,,,0.03,,South Campus/Fort Edmonton LRT Station,113 Street
+SouCa-3,E67,21151,1,1,25,,,0.03,,South Campus/Fort Edmonton LRT Station,Belgravia Road
+SouCa-4,E67,21152,1,1,25,,,0.03,,South Campus/Fort Edmonton LRT Station,Belgravia Road
+McB-4,E69,99811,1,1,25,,,0.03,,McKernan\Belgravia LRT Station,76 Avenue
+McB-1,E71,99811,1,1,25,,,0.03,,McKernan\Belgravia LRT Station,78 Avenue
+McB-2,E71,99812,1,1,25,,,0.03,,McKernan\Belgravia LRT Station,78 Avenue
+McB-3,E69,99812,1,1,25,,,0.03,,McKernan\Belgravia LRT Station,76 Avenue
+HeSc-1,E73,20142,1,1,25,,,0.03,,Health Sciences/Jubilee LRT Station,83 Avenue
+HeSc-2,E73,20141,1,1,25,,,0.03,,Health Sciences/Jubilee LRT Station,83 Avenue
+HeSc-3,E75,20141,1,1,25,, ,0.03,,Health Sciences/Jubilee LRT Station,87 Avenue
+HeSc-4,E75,20142,1,1,25,,,0.03,,Health Sciences/Jubilee LRT Station,87 Avenue
+Uni-11,E246,E78,2,1,21,,43,,,University LRT Station,112 Ave
+Uni-3,E200,E78,5,1,0,,,,,University LRT Station ,Hub Mall South Entrance
+Uni-9,E78,E246,4,0,21,,30,,,University LRT Station ,
+Uni-2,E78,E236,1,1,17,,,,,,112 Avenue/University Transit Centre
+Uni-15,E236,23162,5,1,25,120,,,,To Trains,To Concourse
+Uni-4,E236,23162,4,1,53,,25,,,Proof of Payment Area,
+Uni-5,E85,23162,5,1,5,,,,,To Trains,To Concourse
+Uni-6,E85,23162,4,1,25,,60,,,Proof of Payment Area,89 Avenue/University Transit Centre
+Uni-12,E236,23161,5,1,25,120,,,,To Trains,To Concourse
+Uni-17,E83,E84,2,1,13,,50,,,University LRT Station,89 Avenue South
+Uni-7,E84,E85,1,1,16,,,,,University LRT Station,89 Avenue
+Uni-8,E85,23161,4,1,53,,60,,,Proof of Payment Area,89 Avenue/University Transit Centre
+Uni-16,E89,E85,2,1,73,,35,,,University LRT Station,Dentistry
+Gran-5,E132,E143,2,1,5,,45,,,Grandin LRT Station,
+Gran-3,E130,E143,2,1,28,,45,,,Grandin LRT Station,
+Gran-17,19252,E143,4,1,23,,30,,,Proof of Payment Area,110 St
+Gran-7,E132,19251,5,1,30,120,,,,Grandin LRT Station,110 St
+Gran-2,E145,E146,2,1,11,,30,,,Grandin LRT Station,109 Street
+Gran-6,E146,E147,1,1,89,,,,,,
+Gran-11,E138,E147,2,1,12,,38,,,Grandin LRT Station,98 Avenue
+Gran-8,E147,E141,1,1,25,,,,,Grandin LRT Station,Gov't Centre
+Gran-25,E141,19251,4,1,25,,35,,,Proof of Payment Area,98 Ave
+Gran-23,E141,19251,5,1,25,50,,,,To Trains,To Concourse
+Gran-21,E143,19252,2,1,23,,62,,,Proof of Payment Area,110 St
+Gran-10,E135,E141,5,1,11,,,,,Grandin LRT Station,To Street
+Gran-13,E135,E141,2,1,29,,48,,,Grandin LRT Station,98 Avenue
+Coron-6,E127,E123,2,1,76,,40,,,Corona LRT Station,108 Street South
+Coron-5,E118,E123,2,1,45,,40,,,Corona LRT Station,108 Street
+Coron-14,E123,19262,2,1,13,,34,,,Proof of Payment Area,Corona LRT Station West
+Coron-1,E112,E116,2,1,51,,40,,,,107 Street North
+Coron-12,E116,19261,2,1,20,,35,,,Proof of Payment Area,Corona LRT Station East
+Coron-7,E116,E123,1,1,150,,,,,108 Street,107 Street
+Coron-4,E113,E116,2,1,40,,45,,,,107 Street South
+Coron-16,19261,E123,4,1,13,,28,,,,Corona LRT Station West
+Coron-8,E116,19261,5,1,20,,,,,To Trains,To Concourse
+Coron-10,19261,E116,4,0,20,,28,,,Corona LRT Station East,
+Coron-3,E113,E116,4,0,40,,30,,,,107 Street South
+Coron-2,E113,E116,5,1,40,,,,,,107 Street South
+Bay-3,E101,E99,2,1,35,,41,,,Bay\Enterprise Square Station,104 Street North
+Bay-4,E103,E99,2,1,35,,41,,,Bay\Enterprise Square Station,104 Street South
+Bay-1,E106,E97,2,1,65,,39,,,Bay\Enterprise Square Station,103 Street North
+Bay-2,E109,E97,2,1,45,,39,,,Bay\Enterprise Square Station,103 Street South
+Bay-8,E97,19852,5,1,20,,,,,To Trains,To Concourse
+Bay-12,E97,19852,2,1,20,,37,,,Proof of Payment Area,Bay/Enterprise Square LRT Station East
+Bay-6,19852,E97,4,0,20,,30,,,Bay/Enterprise Square LRT Station East,
+Bay-16,E99,19852,2,1,25,,37,,,Proof of Payment Area,Bay Enterprise Square LRT Station West
+Bay-14,19852,E99,4,0,20,,30,,,Bay\Enterprise Square West,
+Bay-5,E198,E199,2,1,62,,41,,,LRT Pedway,Canadian Western Bank Place
+Bay-10,E199,E99,1,1,20,,,,,,Canadian Western Bank Place
+Bay-11,E199,E97,1,1,37,,,,,,
+Cent-9,E53,E52,2,1,50,,35,,,Central LRT Station,101 Street South
+Cent-19,E50,E52,2,1,47,,32,,,Central LRT Station,101 Street North
+Cent-2,E257,E52,1,1,117,,,,,,
+Cent-30,E51,E56,5,1,0,,,,,,
+Cent-4,E257,E56,2,1,53,,32,,,Royal Bank,Central LRT Station
+Cent-5,E60,E95,1,1,35,,,,,,
+Cent-11,E58,E60,2,1,37,,39,,,Central Station,Jasper Avenue
+Cent-10,E94,E95,2,1,14,,36,,,Central LRT Station,
+Cent-8,E91,E95,2,1,56,,25,,,Central LRT,100 Street
+Cent-31,E60,19352,5,1,25,40,,,,To Trains,To Concourse
+Cent-23,E60,19351,2,1,15,,39,,,Proof of Payment Area,Central LRT Sation East
+Cent-21,19351,E60,4,0,25,,30,,,Central LRT Station East,
+Cent-27,E52,19351,2,1,25,,39,,,Proof of Payment Area,Central LRT Station West
+Cent-25,19351,E52,4,1,25,,30,,,Central LRT Station West,
+Cent-7,E63,E64,2,1,27,,36,,,Central LRT Station,100A Street
+Cent-6,E64,E63,4,0,27,,30,,,Central LRT Station,100A Street
+Cent-1,E63,E64,5,1,15,60,,,,Central LRT Station,100A Street
+Cent-15,E64,E248,1,1,48,,,,,,
+Cent-16,E60,E64,1,1,70,,,,,,
+Mac-5,E196,11171,1,1,50,,,0.03,,MacEwan LRT Station,105 Street
+Mac-9,E153,E155,1,1,127,,,0.03,,MacEwan LRT Station,
+Mac-10,E153,E155,2,1,45,,18,,,MacEwan LRT,
+Mac-11,E156,E155,1,1,16,,,,,MacEwan LRT,Rogers Place
+Mac-7,E155,11172,2,1,30,,21,,,Proof of Payment Area,
+Mac-4,11172,E155,4,0,30,,17,,,,
+Mac-1,11171,E155,4,0,38,,17,,,,
+Mac-2,E155,11171,5,1,30,,,,,Proof of Payment Area,
+Belv-2,E180,E184,2,1,32,,45,,,Belvedere LRT Station,129 Ave
+Belv-1,E180,E184,5,1,15,,,,,Belvedere LRT Station,129 Ave
+Belv-7,E184,78302,2,1,45,,39,,,Proof of Payment Area,129 Ave  West Parking
+Belv-5,78302,E184,4,0,45,,30,,,,129 Ave  West Parking
+Belv-3,E184,78302,5,1,30,,,,,To Trains,To Concourse
+Belv-10,E182,E184,2,1,65,,39,,,Belvedere LRT Station,West Parking
+Belv-9,E184,E182,4,0,65,,30,,,Belvedere LRT Station,West Parking
+Belv-11,E182,E184,5,1,50,,,,,Belvedere LRT Station,West Parking
+Kings-3,E160,11142,1,1,40,,,0.03,,Kingsway\Royal Alec LRT Station,Bus Terminal
+Kings-1,E158,11141,1,1,36,,,0.03,,Kingsway\Royal Alec LRT Station,Hospitals
+NBLMKT-2,E164,11163,1,1,60,,,0.03,,,
+NBLMKT-1,E162,11163,1,1,45,,,0.03,,,
+Stad-1,E152,19812,1,1,46,,,,,Stadium LRT,Stadium Transit Centre
+Stad-2,E151,19811,1,1,68,,,,,Stadium LRT,Stadium Transit Centre
+Stad-3,E151,19812,1,1,75,,,,,Stadium LRT,Stadium Transit Centre
+Stad-4,E148,19812,1,1,62,,,,,Stadium LRT,Stadium Transit Centre
+Stad-9,E152,19811,1,1,50,,,,,Stadium LRT,Stadium Transit Centre
+Stad-10,E148,19811,1,1,60,,,,,Stadium LRT,Stadium Transit Centre
+Coli-14,E201,E214,5,1,40,,,,,To Concourse,Transit Centre
+Coli-15,E167,E214,2,1,55,,39,,,Coliseum LRT Station,Transit Centre
+Coli-6,E204,E214,5,1,50,,,,,To Concourse,Northlands Park
+Coli-7,E169,E214,2,1,65,,39,,,Coliseum LRT Station,Northlands Park
+Coli-8,E208,18892,2,1,20,,39,,,Proof of Payment Area,
+Coli-12,E168,18892,2,1,20,,39,,,Proof of Payment Area,
+Coli-2,E172,18892,2,1,20,,,,,Coliseum LRT Station,118 Street South
+Coli-10,E214,18892,5,1,5,,,,,To Trains,To Concourse
+Coli-1,E171,E208,1,1,10,,,,,Coliseum LRT Station,118 Street North
+Coli-3,E214,E168,1,1,20,,,,,,
+Coli-4,E214,E208,1,1,30,,,,,,
+Clv-3,E193,79771,1,1,120,,,0.03,,Clareview LRT Station,North Parking
+Clv-1,E186,E190,1,1,99,,,0.03,,Clareview LRT Station,East Parking
+Clv-2,E186,E190,2,1,30,,30,,,Clareview LRT Station,East Parking
+Clv-10,E189,E190,2,1,43,,30,,,Clareview LRT Station,West Parking
+Clv-9,E189,E190,1,1,100,,,0.03,,Clareveiw LRT Station,West Parking
+Clv-5,E190,E191,2,1,15,,39,,,Proof of Payment Area,
+Clv-6,E205,79771,2,1,20,,39,,,Proof of Payment Area,
+Clv-7,E191,79771,1,1,45,,,,,,
+Clv-4,E190,E191,5,1,0,,,,,To Trains,To Concourse
+Clv-11,E190,E191,4,0,15,,30,,,,
+Uni-19,E85,23161,5,1,0,120,,,,To Trains,To Concourse
+Chur-20,E217,E249,1,1,47,,,,,Law Courts and Brownlee Building,Churchill Station
+Chur-17,E218,E5,2,1,59,,34,,,Churchill LRT Station,Citadel Theater
+Chur-5,E224,E253,4,1,44,,28,,,,
+Chur-26,E249,E226,1,1,140,,,0.03,,Brownlee Building,Churchill Station
+Chur-4,E228,E226,2,1,70,,25,,,,
+Chur-3,E228,E226,5,1,70,100,,,,,
+Chur-18,E231,E249,2,1,39,,25,,,,
+Uni-18,E236,23161,4,1,53,,25,,,Proof of Payment Area,
+Uni-14,E85,E236,1,1,79,,,,,,
+Gran-14,E241,E242,5,1,0,35,,,,,
+Gran-16,E241,E240,1,1,75,,,0.03,,,
+Gran-18,E233,E242,1,1,152,,,,,,Grandin LRT Station
+Gran-1,E238,E233,2,1,14,,31,,,Grandin LRT Station,
+Gran-15,E233,E146,1,1,52,,,0.3,,,
+Gran-12,E141,E135,4,0,29,,25,,,98 Avenue,
+Cent-29,E248,E247,2,1,30,,11,,,Central LRT Station,Scotia Place
+Cent-17,E248,E64,1,1,40,,,,,,
+Chur-13,E16,E10,1,1,65,,,,,,
+Chur-14,E10,E5,1,1,49,,,,,,
+Chur-16,E209,E253,1,1,175,,,,,,
+Chur-35,E254,E226,5,1,23,30,,,,,Royal Alberta Museum
+Chur-36,E254,E226,2,1,36,,35,,,,Royal Alberta Museum
+Chur-32,E255,E253,5,1,40,45,,,,,
+Cent-18,E256,E257,2,1,29,,37,,,Central LRT Station,Commerce Place
+Cent-13,E256,E257,4,1,29,,24,,,Central LRT Station,Commerce Place
+Cent-12,E258,E257,5,1,36,30,,,,Central LRT Station,Commerce Place
+Cent-20,E61,E52,2,1,14,,37,,,Central LRT Station,First & Jasper
+Clv-8,E105,E205,2,1,26,,14,,,Clareveiw LRT Station,East Parking
+Sgt-6,E33,21132,5,1,10,50,,,,To Trains,Upper Level
+Gran-4,E132,19252,5,1,30,120,,,,Grandin LRT Station,110 St
+Gran-22,E143,19251,2,1,23,,62,,,Proof of Payment Area,110 St
+Gran-20,E143,19251,4,1,23,,30,,,Proof of Payment Area,110 St
+Gran-24,E141,19252,5,1,25,50,,,,To Trains,To Concourse
+Gran-26,E141,19252,4,1,25,,35,,,Proof of Payment Area,98 Ave
+Coron-9,E116,19262,5,1,20,,,,,To Trains,To Concourse
+Coron-13,E116,19262,2,1,20,,35,,,Proof of Payment Area,Corona LRT Station East
+Coron-11,19262,E116,4,0,20,,28,,,Corona LRT Station East,
+Coron-17,19262,E123,4,1,13,,28,,,Corona LRT Station West,
+Coron-15,E123,19261,2,1,13,,34,,,Proof of Payment Area,Corona LRT Station West
+Bay-17,E99,19851,2,1,25,,37,,,Proof of Payment Area,Bay Enterprise Square LRT Station West
+Bay-15,19851,E99,4,0,25,,30,,,Bay\Enterprise Square West,
+Bay-9,E97,19851,5,1,20,,,,,To Trains,To Concourse
+Bay-13,E97,19851,2,1,20,,37,,,,Bay/Enterprise Square LRT Station East
+Bay-7,19851,E97,4,0,20,,30,,,Bay/Enterprise Square LRT Station East,
+Cent-28,E52,19352,2,1,25,,39,,,Proof of Payment Area,Central LRT Station West
+Cent-26,19352,E52,4,1,25,,30,,,Central LRT Station West,
+Cent-24,E60,19352,2,1,15,,39,,,Proof of Payment Area,Central LRT Sation East
+Cent-22,19352,E60,4,0,25,,30,,,Central LRT Station East,
+Cent-32,E60,19351,5,1,25,40,,,,To Trains,To Concourse
+Chur-24,18761,E16,4,0,20,,35,,,The Arts District North,Churchill LRT Station
+Chur-28,E16,18761,2,1,20,,44,,,Churchill LRT Station,The Arts District North
+Chur-34,E5,18761,2,1,20,,44,,,Proof of Payment Area,The Arts District South
+Chur-22,E5,18761,5,1,20,100,,,,To Trains,To Concourse
+Chur-30,18761,E5,4,0,20,,35,,,The Arts District South,Proof of Payment Area
+Mac-8,E155,11171,2,1,30,,21,,,Proof of Payment Area,
+Mac-3,E155,11172,5,1,30,,,,,Proof of Payment Area,
+Mac-6,E196,11172,1,1,50,,,0.03,,MacEwan LRT Station,105 Street
+Kings-2,E158,11142,1,1,36,,,0.03,,Kingsway\Royal Alec LRT Station,Hospitals
+Kings-4,E160,11141,1,1,40,,,0.03,,Kingsway\Royal Alec LRT Station,Bus Terminal
+Coli-11,E214,18891,5,1,5,,,,,To Trains,To Concourse
+Coli-13,E168,18891,2,1,20,,39,,,Proof of Payment Area,
+Coli-9,E208,18891,2,1,20,,39,,,Proof of Payment Area,
+Coli-5,E172,18891,2,1,20,,,,,Coliseum LRT Station,118 Street South
+Belv-6,78301,E184,4,0,45,,30,,,,129 Ave  West Parking
+Belv-8,E184,78301,2,1,45,,39,,,Proof of Payment Area,129 Ave  West Parking
+Belv-4,E184,78301,5,1,30,,,,,To Trains,To Concourse
+Bay-18,E262,E97,4,1,91,,30,,,Bay\Enterprise Square Station,Enterprise Square
+Bay-19,E262,E97,5,1,90,60,,,,Bay\Enterprise Square Station,Enterprise Square
+Clv-12,E263,E205,1,1,95,,,0.03,,Clareview LRT Station,East Parking
+Clv-13,E205,E190,1,1,74,,,0.03,,,
+Chur-40,E5,E225,5,1,112,300,,,,Churchill LRT Station,
+Dav-1,E267,2877,5,1,,,,,,,
+Dav-2,E266,2877,5,1,,,,,,,
+Dav-3,E266,2687,5,1,,,,,,,
+Dav-4,E267,2687,5,1,,,,,,,
+Dav-5,E264,2877,2,1,,,,,,,
+Dav-6,E264,2687,2,1,,,,,,,
+Dav-7,E265,2687,2,1,,,,,,,
+Dav-8,E265,2877,2,1,,,,,,,
+Dav-9,E266,2687,2,1,,,,,,,
+Dav-10,E266,2877,2,1,,,,,,,
+Dav-11,E267,2687,2,1,,,,,,,
+Dav-12,E267,2877,2,1,,,,,,,
+Dav-13,2877,E267,4,0,,,,,,,
+Dav-14,2877,E266,4,0,,,,,,,
+Dav-15,2687,E266,4,0,,,,,,,
+Dav-16,2687,E267,4,0,,,,,,,
+MWo-1,E270,3876,1,1,,,,,,,
+MWo-2,E270,3875,1,1,,,,,,,
+GRN-1,E271,3607,1,1,,,,,,,
+GRN-2,E271,3606,1,1,,,,,,,
+MiW-1,E272,3900,1,1,85,,,,,,
+MiW-2,E273,3900,1,1,23,,,,,,
+Avo-1,E275,2718,1,1,,,,,,,
+Avo-2,E274,2718,1,1,,,,,,,
+Avo-3,E276,2717,1,1,,,,,,,
+Avo-4,E277,2717,1,1,,,,,,,
+Bon-1,E279,2716,1,1,,,,,,,
+Bon-2,E279,2715,1,1,,,,,,,
+Bon-3,E278,2716,1,1,,,,,,,
+Bon-4,E279,2715,1,1,,,,,,,
+Hol-1,E282,2162,1,1,,,,,,,
+Hol-2,E281,2162,1,1,,,,,,,
+Hol-3,E280,2006,1,1,,,,,,,
+Str-1,E283,22991,1,1,,,,,,,
+Str-2,E283,22990,1,1,,,,,,,
+Str-3,E284,22991,1,1,,,,,,,
+Str-4,E284,22990,1,1,,,,,,,
+Mut-1,E286,22993,1,1,,,,,,,
+Mut-2,E286,22992,1,1,,,,,,,
+Mut-3,E285,22993,1,1,,,,,,,
+Mut-4,E285,22992,1,1,,,,,,,
+Qua-1,E288,1518,1,1,,,,,,,
+Qua-2,E288,1519,1,1,,,,,,,
+Qua-3,E287,1518,1,1,,,,,,,
+Qua-4,E287,1519,1,1,,,,,,,
+CHS-1,E289,1515,1,1,,,,,,,
+CHS-2,E289,1516,1,1,,,,,,,
+CHS-3,E290,1515,1,1,,,,,,,
+CHS-4,E290,1516,1,1,,,,,,,
+102-1,E291,1514,1,1,30,,,,,,
+102-2,E291,1513,1,1,60,,,,,,
+102-3,E292,1514,1,1,60,,,,,,
+102-4,E292,1513,1,1,30,,,,,,
+MiW-03,E272,3899,1,1,23,,,,,,
+MiW-04,E273,3899,1,1,85,,,,,,
+NBLMKT-4,E164,11164,1,1,60,,,0.03,,,
+NBLMKT-3,E162,11164,1,1,40,,,0.03,,,
+Clv-14,E191,79772,1,1,23,,,,,Clareview LRT Station,East Parking
+Clv-15,E193,79772,1,1,53,,,0.03,,Clareview LRT Station,
+CenPk-11,E211,49822,2,1,30,,31,,,Proof of Payment Area,
+CenPk-12,E211,49822,2,1,30,,39,,,Proof of Payment Area,
+CenPk-13,49822,E211,4,0,30,,25,,,,
+CenPk-14,E211,49822,5,1,40,,,,,To Trains,To Upper Level

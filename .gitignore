@@ -1,0 +1,150 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# ── Streamlit / DuckDB (local runtime) ───────────────────────────────────────
+dashboard/.duckdb/
+.streamlit/secrets.toml
+
+# GTFS-RT day caches (downloaded from S3)
+dashboard/data/positions_cache/
+dashboard/data/**/positions_cache/
+
+# Local parquet snapshots (default data path is S3; optional offline seed)
+dashboard/data/positions_0.parquet
+dashboard/data/positions_0_*.parquet
+dashboard/data/**/*_backup*.parquet
+
+# Packaged GTFS zip duplicates (extracted folders are canonical)
+dashboard/data/gtfs-sched.zip
+
+# Local SQLite dev DB
+dashboard/db/*.db
+dashboard/db/*.db-*
+
+# macOS junk inside GTFS trees
+**/__MACOSX/
+**/._*
+
+# ── Node / pnpm (monorepo scaffold; not required for Streamlit) ───────────────
+node_modules/
+.pnpm-store/
+
+# ── IDEs and editors ──────────────────────────────────────────────────────────
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Cursor / Claude / local AI tooling
+.cursor/
+.claude/
+**/.cursor/
+**/.claude/
+*.mdc
+.agent/
+agent-transcripts/
+**/*.jsonl
+
+# ── Replit / UPM ──────────────────────────────────────────────────────────────
+.replit
+.replitignore
+replit.nix
+.cache/
+.local/
+.upm/
+
+# Replit upload dumps (duplicate parquet/GTFS/prompts; not used by the app)
+attached_assets/
+replit.md
+
+# Replit / local Python env (not in repo)
+.pythonlibs/
+.cache/
+
+# Report drafts, screenshots, submission inputs (local only)
+report_inputs/
+FINAL_TECHNICAL_REPORT*.md
+FINAL_TECHNICAL_REPORT*.html
+REPORT_FACT_AUDIT.md
+*.pdf
+*.png
+*.mp4
+*.zip
+
+# Inactive agency GTFS (not required to run TTC / TransLink / Edmonton)
+dashboard/data/stm/
+dashboard/data/octranspo/
+dashboard/data/calgary/
+
+# Regeneratable validation JSON (keep docs/*.md)
+docs/*.json
+
+# Legacy NX / Replit monorepo (Streamlit app does not use these)
+artifacts/
+lib/
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+tsconfig.json
+tsconfig.base.json
+main.py
+.npmrc
+scripts/package.json
+scripts/tsconfig.json
+scripts/src/
+scripts/post-merge.sh
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Legacy monorepo / NX (if present) ─────────────────────────────────────────
+/connect.lock
+/libpeerconnection.log
+npm-debug.log*
+yarn-error.log*
+testem.log
+tmp/
+out-tsc/
+*.tsbuildinfo
+.expo/
+.expo-shared/
+
+# ── Logs and scratch ──────────────────────────────────────────────────────────
+*.log
+*.tmp
+*.swp
+*~

@@ -1,0 +1,5 @@
+# GTFS static stop_times (required for Reliability; too large for plain Git)
+dashboard/data/gtfs/stop_times.txt filter=lfs diff=lfs merge=lfs -text
+dashboard/data/translink/stop_times.txt filter=lfs diff=lfs merge=lfs -text
+dashboard/data/edmonton/stop_times.txt filter=lfs diff=lfs merge=lfs -text
+dashboard/data/*/stop_times.txt filter=lfs diff=lfs merge=lfs -text

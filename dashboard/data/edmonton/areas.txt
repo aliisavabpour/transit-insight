@@ -1,0 +1,9 @@
+area_id,area_name
+1EDM,Edmonton
+5SGT,Spruce Grove
+1AIR,Airport
+7BT,Beaumont
+9LT,Leduc
+6FST,Fort Saskatchewan
+2STA,St. Albert
+4SCT,Strathcona

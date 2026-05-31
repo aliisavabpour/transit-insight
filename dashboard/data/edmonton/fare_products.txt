@@ -1,0 +1,44 @@
+fare_product_id,fare_product_name,fare_media_id,amount,currency
+EdmontonOnDemand,On-Demand Service,,0.00,CAD
+EdmontonArc,Edmonton Arc Fare,ARC,3.00,CAD
+EdmontonCash,Edmonton Cash Fare,Cash,3.75,CAD
+AirportArc,Airport Arc Fare,ARC,6.00,CAD
+AirportCash,Airport Cash Fare,Cash,6.00,CAD
+STATArcCommuter,St. Albert Commuter Arc Fare,ARC,4.25,CAD
+STATCashCommuter,St. Albert Commuter Cash Fare,Cash,6.00,CAD
+STATArcLocal,St. Albert Local Arc Fare,ARC,2.50,CAD
+STATCashLocal,St. Albert Local Cash Fare,Cash,3.25,CAD
+SCTArcCommuter,Strathcona Commuter Arc Fare,ARC,5.00,CAD
+SCTCashCommuter,Strathcona Commuter Cash Fare,Cash,6.50,CAD
+SCTArcLocal,Strathcona Local Arc Fare,ARC,2.75,CAD
+SCTCashLocal,Strathcona Local Cash Fare,Cash,3.25,CAD
+SGArcLocal,Spruce Grove Local Arc Fare,ARC,3.00,CAD
+SGCashLocal,Spruce Grove Local Cash Fare,Cash,3.00,CAD
+SGArcCommuter,Spruce Grove Commuter Arc Fare,ARC,5.60,CAD
+SGCashCommuter,Spruce Grove Commuter Cash Fare,Cash,6.25,CAD
+FSTArcLocal,Ft. Saskachewan Local Arc Fare,ARC,3.00,CAD
+FSTCashLocal,Ft. Saskachewan Local Cash Fare,Cash,3.25,CAD
+FSTArcCommuter,Ft. Saskachewan Commuter Arc Fare,ARC,5.00,CAD
+FSTCashCommuter,Ft. Saskachewan Commuter Cash Fare,Cash,5.25,CAD
+BTArcCommuter,Beaumont Commuter Arc Fare,ARC,5.00,CAD
+BTCashCommuter,Beaumont Commuter Cash Fare,Cash,5.00,CAD
+BTArcLocal,Beaumont Commuter Arc Fare,ARC,5.00,CAD
+BTCashLocal,Beaumont Commuter Cash Fare,Cash,5.00,CAD
+LTArcLocal,Leduc Local Arc Fare,ARC,2.00,CAD
+LTCashLocal,Leduc Local Cash Fare,Cash,2.00,CAD
+LTArcCommuter,Leduc Commuter Arc Fare,ARC,5.00,CAD
+LTCashCommuter,Leduc Commuter Cash Fare,Cash,5.00,CAD
+EdmontoncEMV,Edmonton cEMV Fare,cEMV,3.00,CAD
+AirportcEMV,Airport cEMV Fare,cEMV,6.00,CAD
+STATcEMVCommuter,St. Albert Commuter cEMV Fare,cEMV,4.25,CAD
+STATcEMVLocal,St. Albert Local cEMV Fare,cEMV,2.50,CAD
+SCTcEMVCommuter,Strathcona Commuter cEMV Fare,cEMV,5.00,CAD
+SCTcEMVLocal,Strathcona Local cEMV Fare,cEMV,2.75,CAD
+SGcEMVLocal,Spruce Grove Local cEMV Fare,cEMV,3.00,CAD
+SGcEMVCommuter,Spruce Grove Commuter cEMV Fare,cEMV,5.60,CAD
+FSTcEMVLocal,Ft. Saskachewan Local cEMV Fare,cEMV,3.00,CAD
+FSTcEMVCommuter,Ft. Saskachewan Commuter cEMV Fare,cEMV,5.00,CAD
+BTcEMVCommuter,Beaumont Commuter cEMV Fare,cEMV,5.00,CAD
+BTcEMVLocal,Beaumont Commuter cEMV Fare,cEMV,5.00,CAD
+LTcEMVLocal,Leduc Local cEMV Fare,cEMV,2.00,CAD
+LTcEMVCommuter,Leduc Commuter cEMV Fare,cEMV,5.00,CAD

@@ -1,0 +1,7 @@
+level_id,level_index,level_name
+2,2,Pedway Level
+1,1,Station Level
+0,0,Ground Level
+-1,-1,Concourse Level
+-1.5,-1.5, Landing Level
+-2,-2,Track Level
