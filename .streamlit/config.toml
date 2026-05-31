@@ -1,4 +1,15 @@
 [server]
 headless = true
 address = "0.0.0.0"
-# Do not set port here — Streamlit Cloud expects the default (8501).
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#E53935"
+backgroundColor = "#0D1117"
+secondaryBackgroundColor = "#161B22"
+textColor = "#E6EDF3"
+font = "sans serif"

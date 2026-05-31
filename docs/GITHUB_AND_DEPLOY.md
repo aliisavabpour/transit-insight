@@ -53,11 +53,14 @@ If slimming the public repo, consider `git rm --cached` (not delete locally) for
 
 ## Streamlit Cloud
 
-- **Main file:** `dashboard/app.py`
-- **Working directory:** `dashboard`
+- **Main file:** `dashboard/app.py` (repo root as working directory)
 - **Python:** 3.11+
+- **Do not** set a custom run command with `--server.port 5000` (Replit legacy)
+- **Port:** `.streamlit/config.toml` sets `server.port = 8501` (required for health check)
 - **Secrets:** none required for public S3 GTFS-RT
 - Ensure GTFS folders for TTC, TransLink, and Edmonton are present (or add a deploy step to fetch static GTFS)
+
+If deploy logs show `Uvicorn server started on 0.0.0.0:5000` while health checks hit `:8501`, the app is still using an old config or a custom Cloud run command — push latest `.streamlit/config.toml` and clear any custom start command in App settings.
 
 ## Verify before push
 
